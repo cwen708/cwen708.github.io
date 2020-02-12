@@ -1,3 +1,4 @@
+<script>
 fill(255, 255, 255);
 noStroke();
 background(255, 255, 255);
@@ -52,3 +53,4 @@ quad(253,258,254,187,145,187,145,259);//body
 noStroke();
 fill(247, 217, 140);
 triangle(203,184,218,153,186,154);
+</script>
